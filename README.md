@@ -41,3 +41,7 @@ Elastic Stack: The Basics
 
 ```kql
 Source_Country: "United States"
+
+
+
+![elastic](screenshots/elastic.png)
