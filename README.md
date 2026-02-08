@@ -29,6 +29,10 @@ Elastic Stack: The Basics
 - Kibana Visualize
 - Kibana Dashboards
 
+
+
+![elastic](screenshots/elastic.png)
+
 ## Investigation Activities
 
 - Identified suspicious IP activity
@@ -44,4 +48,4 @@ Source_Country: "United States"
 
 
 
-![elastic](screenshots/elastic.png)
+
